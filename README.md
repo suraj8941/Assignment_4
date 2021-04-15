@@ -16,5 +16,5 @@ Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/suraj8
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/suraj8941/Assignment_4/blob/1f3db71db141e6d86941ae98614506e354037060/dataFiles.zip "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/suraj8941/Assignment_4.git "Click to go to Repo")
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/suraj8941/Assignment_4/blob/1f3db71db141e6d86941ae98614506e354037060/CodeBook.md "CodeBook.md")
-README | ReadingItNow |  [Repo Link]( "README.md")
+README | ReadingItNow |  [Repo Link](https://github.com/suraj8941/Assignment_4/blob/5f4aeca42007c1a3d50d9cf263b386430866ba66/README.md "README.md")
 
